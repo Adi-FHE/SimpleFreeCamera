@@ -1,0 +1,17 @@
+{
+  "name": "com.marotek.free-camera",
+  "version": "0.1.0",
+  "displayName": "Free Camera",
+  "description": "A simple Free flying Camera script",
+  "unity": "2019.1",
+  "keywords": [
+    "flying",
+    "camera",
+    "free"
+  ],
+  "author": {
+    "name": "Marotek",
+    "email": "marotank@hotmail.com",
+    "url": ""
+  }
+}
